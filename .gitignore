@@ -1,0 +1,20 @@
+# Training data
+train_dataset*
+
+# Pycache
+__pycache__/
+
+# IDE
+.vscode/
+
+# --- Logs ---
+logs/
+*.log
+
+# HPC output
+*.out
+*.err
+
+# temporary files
+tmp/
+temp/
