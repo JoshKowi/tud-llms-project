@@ -1,8 +1,12 @@
 # Training data
 train_dataset*
+test_dataset*
 
 # Pycache
 __pycache__/
+
+# venv
+.venv/
 
 # IDE
 .vscode/
